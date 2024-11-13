@@ -163,3 +163,4 @@ rm font/
 rm -rf font
 ls --color=auto
 mkdir fonts
+ls --color=auto
