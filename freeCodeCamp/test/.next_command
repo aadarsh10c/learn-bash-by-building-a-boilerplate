@@ -95,3 +95,7 @@ cd ../..
 ls --color=auto
 clear
 mkdir website
+cd website/
+ls --color=auto
+cd ..
+ls --color=auto
