@@ -282,3 +282,4 @@ ls --color=auto
 find website-boilerplate
 clear
 echo goodbye terminal
+exit
