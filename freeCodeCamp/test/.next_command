@@ -237,3 +237,4 @@ rm --help
 ls --color=auto
 re -r fonts/
 rm -r fonts
+ls --color=auto
