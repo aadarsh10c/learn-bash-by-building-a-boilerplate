@@ -238,3 +238,9 @@ ls --color=auto
 re -r fonts/
 rm -r fonts
 ls --color=auto
+touch pacakge.json
+ls --color=auto
+rm pacakge.json
+clear
+ls --color=auto
+touch package.json
