@@ -121,3 +121,4 @@ touch header,png
 ls --color=auto
 rm -rf header,png
 touch header.png
+touch footer.jpeg
