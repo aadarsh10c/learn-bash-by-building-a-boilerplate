@@ -103,3 +103,8 @@ cd website/
 ls --color=auto
 echo hello website
 touch index.html
+touch style.css
+ls --color=auto
+rm -rf style.css
+ls --color=auto
+touch styles.css
