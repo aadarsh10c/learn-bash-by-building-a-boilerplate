@@ -278,3 +278,5 @@ clear
 find
 clear
 find toms-website
+ls --color=auto
+find website-boilerplate
