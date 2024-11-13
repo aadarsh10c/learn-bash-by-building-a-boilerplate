@@ -220,3 +220,5 @@ find -name CodeAlly.svg
 mv CodeRoad.svg ./client/assets/icons
 mv freeCodeCamp.svg ./client/assets/icons
 find
+mkdir client/assets/icons
+mkdir client/assets/fonts
