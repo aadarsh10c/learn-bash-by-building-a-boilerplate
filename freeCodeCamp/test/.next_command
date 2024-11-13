@@ -268,3 +268,13 @@ ls --color=auto
 cp website-boilerplate toms-website
 cp -r website-boilerplate toms-website
 ls --color=auto
+find website-boilerplate/
+clear
+ls --color=auto
+cd toms-website/
+find
+cd ..
+clear
+find
+clear
+find toms-website
